@@ -1,6 +1,6 @@
 # CODESOFT-TASK-4
 
-# 🎬 Movies, Books, And Products Recommendation System
+# Movies, Books, And Products Recommendation System
 
 ---
 
