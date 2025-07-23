@@ -27,7 +27,9 @@ This is a simple **Content-Based Recommendation System** built using Python, TF-
 ## 🧠 How It Works
 
 1. Movie descriptions are vectorized using **TF-IDF**.
+   
 2. **Cosine Similarity** is calculated between movies.
+   
 3. Top 3 most similar movies (excluding the input movie) are recommended.
 
 ---
